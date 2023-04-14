@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>My fancy blog</title><link>http://example.com/blog/index.html</link>
-<description>A blog about turtles and carrots</description><language>en</language>
-<lastBuildDate>Fri, 14 Apr 2023 11:22:05 +0100</lastBuildDate>
-<pubDate>Fri, 14 Apr 2023 11:22:05 +0100</pubDate>
-<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<channel><title>Dazhao</title><link>https://dazhao.xyz//index.html</link>
+<description>My home at the internet!</description><language>en</language>
+<lastBuildDate>Fri, 14 Apr 2023 11:25:05 +0100</lastBuildDate>
+<pubDate>Fri, 14 Apr 2023 11:25:05 +0100</pubDate>
+<atom:link href="https://dazhao.xyz//feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 SONETO I
 </title><description><![CDATA[
@@ -42,9 +42,10 @@ Ora não de paz, da tarquínia Guerra<br>
 
 
 
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/soneto-i.html</link>
-<guid>http://example.com/blog/./soneto-i.html</guid>
+]]></description><link>https://dazhao.xyz//soneto-i.html</link>
+<guid>https://dazhao.xyz//./soneto-i.html</guid>
 <dc:creator>John Smith</dc:creator>
 <pubDate>Fri, 14 Apr 2023 11:11:03 +0100</pubDate></item>
 </channel></rss>
